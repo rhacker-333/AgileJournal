@@ -9,7 +9,7 @@ Welcome to my personal Agile and Project Management notes site!
 > **Origin of These Notes:**  
 > All material here is transcribed and organized from my original handwritten class notes. Since those notes were difficult to read and share, I decided to digitize them for my own future reference and to present them in a clearer, more accessible format.
 
-**[Download: My Original Agile Notes PDF]([MyAgileAndPMClassNotes_compressed.pdf](https://drive.google.com/file/d/1T4zOeGiAaqqonNQrFda1vSy8R3plT50C/view))**
+**[Download: My Original Agile Notes PDF](https://drive.google.com/file/d/1T4zOeGiAaqqonNQrFda1vSy8R3plT50C/view)**
 
 ---
 
