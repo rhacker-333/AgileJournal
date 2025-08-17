@@ -2,20 +2,6 @@
 title: "Agile Fundamentals"
 ---
 
-# Agile & Project Management Notes
-
-## Table of Contents
-
-- [Agile Fundamentals](agile-fundamentals.md)
-- [Scrum Framework](scrum-framework.md)
-- [Team Communication & Conflict Resolution](conflict-resolution.md)
-- [Practical Agile Exercises](practical-exercises.md)
-- [Prioritization Techniques](prioritization-techniques.md)
-- [Testing in Agile: TDD & BDD](agile-testing.md)
-- [Agile Metrics](agile-metrics.md)
-- [Scaling Agile Frameworks](scaling-agile.md)
-- [Extreme Programming (XP)](extreme-programming.md)
-
 # Agile Fundamentals
 
 Agile software development centers on delivering working solutions iteratively, emphasizing adaptability and value at every step. Key principles include:
