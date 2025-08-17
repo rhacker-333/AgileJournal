@@ -1,6 +1,5 @@
 ---
 title: "Agile Fundamentals"
-output: github_document
 ---
 
 # Agile & Project Management Notes
