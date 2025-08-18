@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="/style.css">
+---
+title: "Agile & Project Management Notes"
+---
+
 # Agile & Project Management Notes
 
 Welcome to my personal Agile and Project Management notes site!
