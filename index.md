@@ -26,3 +26,5 @@ Welcome to my personal Agile and Project Management notes site!
 - [Extreme Programming (XP)](extreme-programming.md)
 
 Explore individual sections for detailed breakdowns.
+
+<link rel="stylesheet" href="/style.css">
