@@ -1,69 +1,84 @@
 body {
-    background: #f5f6fa;
+    background: #f7fafc;
     color: #222;
-    font-family: 'Segoe UI', 'Arial', sans-serif;
+    font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
     margin: 0;
     min-height: 100vh;
 }
 
-header, h1, h2, h3 {
-    color: #1558d6;
-}
-
-main, .container {
-    max-width: 800px;
-    margin: 40px auto;
-    background: #fff;
-    padding: 32px 24px;
-    border-radius: 12px;
-    box-shadow: 0 2px 12px rgba(60,60,80,0.14);
+h1, h2, h3, h4 {
+    color: #1064e6;
+    font-family: 'Montserrat', 'Segoe UI', sans-serif;
+    margin-bottom: .6em;
 }
 
 a {
-    color: #1558d6;
+    color: #1064e6;
     text-decoration: none;
-    transition: color 0.2s;
 }
 
 a:hover {
-    color: #1a8cff;
     text-decoration: underline;
-}
-
-blockquote {
-    background: #eef3fc;
-    border-left: 4px solid #1558d6;
-    padding: 12px 18px;
-    margin: 16px 0;
-    font-style: italic;
-    color: #444;
+    color: #0090ff;
 }
 
 ul, ol {
-    padding-left: 30px;
+    margin-left: 24px;
+    margin-bottom: 1em;
 }
 
-code, pre {
-    font-family: 'Roboto Mono', 'Consolas', monospace;
-    background: #f6f8fa;
-    border-radius: 4px;
-    padding: 2px 6px;
+blockquote {
+    background: #eaf3ff;
+    border-left: 4px solid #1298f7;
+    color: #333;
+    padding: 12px 18px;
+    margin: 18px 0;
+    font-style: italic;
+    border-radius: 6px;
+}
+
+pre, code {
+    background: #f2f4f8;
     color: #d6336c;
+    border-radius: 6px;
+    padding: 2px 6px;
+    font-family: 'Roboto Mono', 'Consolas', monospace;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 16px;
+    margin: 24px 0;
 }
 
 th, td {
-    border: 1px solid #e0e8f3;
-    padding: 8px 12px;
+    border: 1px solid #dce6ec;
+    padding: 10px 14px;
+    text-align: left;
 }
 
 th {
-    background: #eef3fc;
-    color: #1558d6;
-    font-weight: 600;
+    background: #eaf3ff;
+    color: #1064e6;
+} 
+
+img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin: 16px 0;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #dee2e6;
+    margin: 32px 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 36px 30px;
+    border-radius: 13px;
+    box-shadow: 0 2px 24px 0 rgba(16,100,230,0.08);
 }
