@@ -6,10 +6,10 @@ title: "Agile & Project Management Notes"
 
 Welcome to my personal Agile and Project Management notes site!
 
-> *Origin of These Notes:*  
+> **Origin of These Notes:**  
 > All material here is transcribed and organized from my original handwritten class notes. Since those notes were difficult to read and share, I decided to digitize them for my own future reference and to present them in a clearer, more accessible format.
 
-*[Download: My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)*
+**[Download: My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)**
 
 ---
 
@@ -26,5 +26,3 @@ Welcome to my personal Agile and Project Management notes site!
 - [Extreme Programming (XP)](extreme-programming.md)
 
 Explore individual sections for detailed breakdowns.
-
-<link rel="stylesheet" href="/style.css">
