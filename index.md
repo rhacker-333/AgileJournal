@@ -1,12 +1,14 @@
 ---
-title: Agile & Project Management Notes
+title: Agile Journal
 ---
 
-# Agile & Project Management Notes
+# Agile Journal
 
-Welcome to this carefully curated resource dedicated to Agile methodologies and Project Management. The content is the result of a comprehensive effort to consolidate, organize, and clarify key concepts originally captured through extensive course materials and practical experience. This site aims to present them in a clear and accessible format for practitioners, learners, and professionals seeking to deepen their understanding and application of Agile practices.
+Welcome to the Agile Journal, a curated collection of insights, concepts, and practices related to Agile methodologies. This platform is designed to provide clear, structured, and practical knowledge for Agile practitioners and anyone interested in mastering Agile frameworks and techniques.
 
-Download the original notes in PDF format for detailed study: [My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)
+Whether you are new to Agile or looking to deepen your understanding, this journal offers valuable perspectives drawn from extensive study and real-world application.
+
+Download the original Agile material: [My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)
 
 ---
 
