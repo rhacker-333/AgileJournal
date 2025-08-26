@@ -1,15 +1,12 @@
 ---
-title: "Agile & Project Management Notes"
+title: Agile & Project Management Notes
 ---
 
 # Agile & Project Management Notes
 
-Welcome to my personal Agile and Project Management notes site!
+Welcome to this carefully curated resource dedicated to Agile methodologies and Project Management. The content is the result of a comprehensive effort to consolidate, organize, and clarify key concepts originally captured through extensive course materials and practical experience. This site aims to present them in a clear and accessible format for practitioners, learners, and professionals seeking to deepen their understanding and application of Agile practices.
 
-> **Origin of These Notes:**  
-> All material here is transcribed and organized from my original course notes. Since those notes were difficult to read and share, I decided to digitize them for my own future reference and to present them in a clearer, more accessible format.
-
-**[Download: My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)**
+Download the original notes in PDF format for detailed study: [My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)
 
 ---
 
@@ -24,5 +21,3 @@ Welcome to my personal Agile and Project Management notes site!
 - [Agile Metrics](agile-metrics.md)
 - [Scaling Agile Frameworks](scaling-agile.md)
 - [Extreme Programming (XP)](extreme-programming.md)
-
-Explore individual sections for detailed breakdowns.
