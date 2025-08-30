@@ -4,7 +4,7 @@ title: Agile Journal
 
 Welcome to the Agile Journal, a curated collection of insights, concepts, and practices related to Agile methodologies. This platform is designed to provide clear, structured, and practical knowledge about Agile frameworks and techniques.
 
-Whether you are new to Agile or looking to  leaning in  here for a brush-up, this journal offers valuable perspectives.
+Whether you are new to Agile or want a quick review, this journal offers useful insights.
 
 Download the original Agile material: [My Original Agile Notes PDF](MyAgileAndPMClassNotes_compressed.pdf)
 
