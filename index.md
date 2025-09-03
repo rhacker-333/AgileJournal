@@ -6,8 +6,6 @@ Welcome to the Agile Journal, a curated collection of insights, concepts, and pr
 
 Whether you are new to Agile or want a quick review, this journal offers useful insights.
 
-Download the original Agile material: [My Original Agile Notes](MyAgileAndPMClassNotes_compressed.pdf)
-
 ---
 
 ## Table of Contents
